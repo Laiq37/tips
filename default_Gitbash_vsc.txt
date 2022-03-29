@@ -1,0 +1,5 @@
+To set bash as default terminal
+
+1- open command pallete using ctrl+shift+p
+2- search Select Default Profile
+3- select Git bash
